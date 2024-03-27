@@ -13,6 +13,8 @@ import Section11 from './component/Section11'
 import Section10 from './component/Section10'
 import Section9 from './component/Section9'
 import Section8 from './component/Section8'
+import Section6 from './component/Section6'
+import Section7 from './component/Section7'
 
 function App() {
   return (
@@ -24,6 +26,8 @@ function App() {
     <Section3/>
     <Section4/>
     <Section5/>
+    <Section6/>
+    <Section7/>
     <Section8/>
     <Section9/>
     <Section10/>
